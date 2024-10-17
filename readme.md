@@ -8,7 +8,7 @@ I combined the ease of displaying small exercises offered by Jupyter notebook wi
 
 ![dataset](static/database.png) 
 
-The Chinook database is stored in `Chinook.db`. It is also provided in this tutorial, though it is coming from [SQLite Tutorials](https://www.sqlitetutorial.net/sqlite-sample-database/) and can b downloaded using the following [link](https://www.sqlitetutorial.net/wp-content/uploads/2018/03/chinook.zip).
+The Chinook database is stored in `Chinook.db`. It is also provided in this tutorial, though it is coming from [SQLite Tutorials](https://www.sqlitetutorial.net/sqlite-sample-database/) and can be downloaded using the following [link](https://www.sqlitetutorial.net/wp-content/uploads/2018/03/chinook.zip).
 
 
 ### Remarks
