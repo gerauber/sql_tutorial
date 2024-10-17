@@ -1,0 +1,4 @@
+SELECT Name, UnitPrice
+FROM tracks
+ORDER BY UnitPrice DESC
+LIMIT 1 OFFSET 1;
